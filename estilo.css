@@ -1,0 +1,67 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#content {
+}
+#header {
+    height: 80px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #E99B14;
+}
+#navega {
+    height: 30px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #F0DF0B;
+}
+#banner {
+    height: 200px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #18E541;
+}
+#mainhead {
+    height: 30px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #EF37DF;
+}
+#contenido {
+    height: 600px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #CDD190;
+}
+#footer {
+    height: 150px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #E41014;
+}
+#leftside {
+    background-color: #63E3C1;
+    padding: 10px;
+    float: left;
+    height: 580px;
+    width: 40%;
+    margin-right: 15px;
+}
